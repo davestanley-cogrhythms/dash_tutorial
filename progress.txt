@@ -1,0 +1,16 @@
+
+
+This folder documents my progress through the Insight dash tutorial:
+https://sites.google.com/insightdatascience.com/insightwiki19a/dev-setups/dash-tutorial
+
+I went through "Getting started" exercises, which link to the following getting
+started tutorials: https://dash.plot.ly/getting-started
+
+I did all of the exercises, which correspond to files 1-6 in the getting_started
+folder.
+
+
+Next steps:
+  Go back to here: https://sites.google.com/insightdatascience.com/insightwiki19a/dev-setups/dash-tutorial
+  Scroll down to "NEXT STEPS"
+  This is where I left off. (Callbacks would be next)
